@@ -1,10 +1,10 @@
 <img 
-    align="right" 
+    align="left" 
     style="pointer-events:none;" 
     src="./images/logofont.png" width=30%
 />
 
-## Aptos World 项目整体介绍
+## 项目整体介绍
 
 ### 愿景
 
