@@ -16,7 +16,7 @@
     align="left" 
     style="pointer-events:none;" 
     src="./images/Wechat.jpeg"
-    width=25%
+    width=20%
 />
 
 - Twitter：[@aptosworld](https://twitter.com/aptosworld)
