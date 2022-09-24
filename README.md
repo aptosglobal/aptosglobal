@@ -12,13 +12,20 @@
 
 ### 联系我们
 
+<img 
+    align="right" 
+    style="pointer-events:none;" 
+    src="./images/Wechat.jpeg"
+    width=25%
+/>
+
 Twitter：[@aptosworld](https://twitter.com/aptosworld)
 
 Mirror: [0xptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
 
 微信公众号：Aptos World
 
-<image src="./images/Wechat.jpeg" width=30%>
+<br/>
 
 ## 2. Aptos World 团队介绍
 
