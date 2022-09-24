@@ -1,8 +1,20 @@
+<image src="./images/logo.png" width=30%>
+
 ## Aptos World 项目整体介绍
 
 ### 愿景
 
 ### 定位
+
+### 联系我们
+
+Twitter：[@aptosworld](https://twitter.com/aptosworld)
+
+Mirror: [0xptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
+
+微信公众号：Aptos World
+
+<image src="./images/Wechat.jpeg" width=50%>
 
 ## 2. Aptos World 团队介绍
 
