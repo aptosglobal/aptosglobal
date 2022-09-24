@@ -1,7 +1,7 @@
 <img 
     align="right" 
     style="pointer-events:none;" 
-    src="./images/logo.png" width=30%
+    src="./images/logofont.png" width=30%
 />
 
 ## Aptos World 项目整体介绍
