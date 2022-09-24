@@ -14,7 +14,7 @@ Mirror: [0xptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
 
 微信公众号：Aptos World
 
-<image src="./images/Wechat.jpeg" width=50%>
+<image src="./images/Wechat.jpeg" width=30%>
 
 ## 2. Aptos World 团队介绍
 
