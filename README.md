@@ -76,23 +76,12 @@
 
 ### 生态发展
 
-<script>
-	function displayit(id){
-		var a = document.getElementById(id);
-		a.removeAttribute("hidden");
-	}
-	
-	function hideit(id){
-		var a = document.getElementById(id);
-		a.setAttribute("hidden",true);
-	}
-</script>
 <table>
 <tr>
 <td width=30%>
 <center>
 <div>
-<a href="https://mirror.xyz/0xaptosworld.eth/zkOG5MOPtREuNInYDWNYf2dXhZ5ISwjpg-4nNs_PhwU?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjQwMTg2MTAsImZpbGVHVUlEIjoiNDdrZ0pYcmpwUmgwbjlxViIsImlhdCI6MTY2NDAxODMxMCwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzE4Nzg3NzY4Nn0.J4mSpwCKcUcF3Ysk2VbxHRIVWZFdcCDrRXw5khMlZ2c"><image src="./images/coin98.jpeg" onmouseover="document.getElementById('d1').removeAttribute('hidden')" onmouseout="document.getElementById('p1').setAttribute('hidden',true)"></a>
+<a href="https://mirror.xyz/0xaptosworld.eth/zkOG5MOPtREuNInYDWNYf2dXhZ5ISwjpg-4nNs_PhwU?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjQwMTg2MTAsImZpbGVHVUlEIjoiNDdrZ0pYcmpwUmgwbjlxViIsImlhdCI6MTY2NDAxODMxMCwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzE4Nzg3NzY4Nn0.J4mSpwCKcUcF3Ysk2VbxHRIVWZFdcCDrRXw5khMlZ2c"><image src="./images/coin98.jpeg" onmouseover="document.getElementById('d1').removeAttribute('hidden')" onmouseout="document.getElementById('d1').setAttribute('hidden',true)"></a>
 </div>
 <div id = "d1" hidden="hidden">
 Coin98 集成Aptos ，钱包内卷+1
