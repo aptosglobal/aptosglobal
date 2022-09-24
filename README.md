@@ -1,16 +1,27 @@
-### Hi there 👋
+![Logo](./images/logo%20Aptos%20world.png)
 
-<!--
-**aptosworld/aptosworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 1. Aptos World 项目整体介绍
 
-Here are some ideas to get you started:
+### 愿景
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 定位
+
+## 2. Aptos World 团队介绍
+
+## 3. 已合作项目的展示
+
+### Project Dashboard
+
+## 4. 内容资讯集合
+
+### 技术文章
+
+### 生态周报
+
+### Aptos文章
+
+## 5. Move语言学习包
+
+## 6. 合作伙伴的资源
+
+## 7. 抛出聚合
