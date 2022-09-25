@@ -1,10 +1,8 @@
 <img 
     align="left" 
     style="pointer-events:none;" 
-    src="./images/logofont.png" width=30%
+    src="./images/logofont.png" width=50%
 />
-
-<font size=“8”>项目整体介绍</font>
 
 ## 项目整体介绍
 
