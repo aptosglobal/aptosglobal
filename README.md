@@ -29,9 +29,6 @@
             <image src="./images/Cooperators/DAO/MouseGeek.png">
         </td>
     </tr>
-</table>
-
-<table>
     <tr>
         <td width=30%>
             教育机构
@@ -46,9 +43,6 @@
             <image src="./images/Cooperators/edu/DC.png">
         </td>
     </tr>
-</table>
-
-<table>
     <tr>
         <td width=30%>
             投研机构
@@ -60,9 +54,6 @@
             <image src="./images/Cooperators/investor/nothing.jpg">
         </td>
     </tr>
-</table>
-
-<table>
     <tr>
         <td width=30%>
             生态服务机构
@@ -81,6 +72,7 @@
         </td>
     </tr>
 </table>
+
 ## 已合作项目的展示
 
 ### Project Dashboard
