@@ -65,7 +65,127 @@ Move导师与技术顾问，Move Language Contributor、Starcoin Core Developer�
 </center>
 </td>
 </tr>
+<tr>
+<td width=25% valign="top">
+<center>
+<font size = 6>
+<a href="https://twitter.com/Longdefi1">Jessi</a>
+</font>
+<br/>
+Move研究员与内容编辑，Rust资深研究员，Move学习者，前巴比特视频、活动栏目策划
+</center>
+</td>
+<td width=25% valign="top">
+<center>
+<font size = 6>
+<a href="https://twitter.com/0xyilu">0xyilu</a>
+</font>
+<br/>
+Move导师与技术顾问，MoveBit核心开发者，Ex-Lyft
+</center>
+</td>
+<td width=25% valign="top">
+<center>
+<font size = 6>
+<a href="https://twitter.com/chrissun12138">ChrisSun</a>
+</font>
+<br/>
+MoveLang Developer<br/>
+move语言课程讲师
+</center>
+</td>
+<td width=25% valign="top">
+<center>
+<font size = 6>
+<a href="https://twitter.com/haroldxuu_">Harold</a>
+</font>
+<br/>
+Move社区产品与黑客松运营，前百度生态开发者大会运营，阿里巴巴市场营销专家
+</center>
+</td>
+<td width=25% valign="top">
+<center>
+<font size = 6>
+<a href="https://twitter.com/gentlebreeze007">MengHuo</a>
+</font>
+<br/>
+Move生态社区运营，数字游民，瓦猫之夏的活动共建者。自媒体和社群运营达人
+</center>
+</td>
+</tr>
+<tr>
+<td width=25% valign="top">
+<center>
+<font size = 6>
+<a href="https://twitter.com/alalei_">alelei</a>
+</font>
+<br/>
+Move内容翻译与运营
+</center>
+</td>
+<td width=25% valign="top">
+<center>
+<font size = 6>
+<a href="https://twitter.com/no_buscando">Lucia</a>
+</font>
+<br/>
+Move 生态运营策划，Aptos生态研究员，清华英语和经金在读，目前商汤战投实习
+</center>
+</td>
+<td width=25% valign="top">
+<center>
+<font size = 6>
+<a href="https://twitter.com/qiyixx7171">qiyi</a>
+</font>
+<br/>
+Move内容翻译与运营
+</center>
+</td>
+<td width=25% valign="top">
+<center>
+<font size = 6>
+<a href="https://twitter.com/vivilinsv">Vivi</a>
+</font>
+<br/>
+Move内容制作与传播，前路透社财经主持人，
+Near生态章鱼网络CMO
+</center>
+</td>
+<td width=25% valign="top">
+<center>
+<font size = 6>
+<a href="./">Chloe</a>
+</font>
+<br/>
+内容翻译与运营<br/>
+北大汇丰企业管理硕士
+</center>
+</td>
+</tr>
+</td>
+<tr>
+<td width=25% valign="top">
+<center>
+<font size = 6>
+<a href="./">yulu</a>
+</font>
+<br/>
+move语言课程筹划<br/>
+Web3流量运营专家
+</center>
+</td>
+<td width=25% valign="top">
+<center>
+<font size = 6>
+<a href="./">Wind34</a>
+</font>
+<br/>
+Web3视频策划剪辑，新华社、芒果tv、抖音等丰富视频工作经验
+</center>
+</td>
+</tr>
 </table>
+
 ## 3. 已合作项目的展示
 
 ### Project Dashboard
