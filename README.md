@@ -14,6 +14,73 @@
 
 ## 合作伙伴的资源
 
+<table>
+    <tr>
+        <td>
+            开发者社区和DAO
+        </td>
+        <td>
+            <image src="./images/Cooperators/DAO/MoveDAO.png">
+        </td>
+        <td>
+            <image src="./images/Cooperators/DAO/MoveFans.png">
+        </td>
+        <td>
+            <image src="./images/Cooperators/DAO/MouseGeek.png">
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>
+            教育机构
+        </td>
+        <td>
+            <image src="./images/Cooperators/edu/aptoseden.png">
+        </td>
+        <td>
+            <image src="./images/Cooperators/edu/blockchainacademy.png">
+        </td>
+        <td>
+            <image src="./images/Cooperators/edu/DC.png">
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>
+            投研机构
+        </td>
+        <td>
+            <image src="./images/Cooperators/investor/aveslair.png">
+        </td>
+        <td>
+            <image src="./images/Cooperators/investor/nothing.jpg">
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>
+            生态服务机构
+        </td>
+        <td>
+            <image src="./images/Cooperators/services/e3.jpg">
+        </td>
+        <td>
+            <image src="./images/Cooperators/services/DeJob.jpg">
+        </td>
+        <td>
+            <image src="./images/Cooperators/services/MoveBit.png">
+        </td>
+        <td>
+            <image src="./images/Cooperators/services/aptoshub.png">
+        </td>
+    </tr>
+</table>
 ## 已合作项目的展示
 
 ### Project Dashboard
