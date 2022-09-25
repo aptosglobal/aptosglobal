@@ -1,5 +1,5 @@
 <img 
-    align="left" 
+    align="right" 
     style="pointer-events:none;" 
     src="./images/logofont.png" width=40%
 />
@@ -17,17 +17,10 @@
 ### 联系我们
 
 <img 
-    align="left" 
     style="pointer-events:none;" 
     src="./images/Wechat.jpeg"
     width=20%
 />
-
-
-
-<br/>
-<br/>
-<br/>
 
 ## 2. Aptos World 团队介绍
 
