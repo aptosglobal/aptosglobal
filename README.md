@@ -77,12 +77,8 @@
 
 ### Project Dashboard
 
-## 更多
+## 更多 More
 
-## [内容资讯集合](./src/myPost.md)
+[[内容资讯集合]](./src/myPost.md)   
 
-## Move语言学习包
-
-## 招聘聚合
-
-[Members](./src/members.md)
+[[Members]](./src/members.md)
