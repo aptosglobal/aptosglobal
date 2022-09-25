@@ -14,7 +14,7 @@
 
 ### 定位
 
-## 2. Aptos World 团队介绍
+## Aptos World 团队介绍
 <table border="3">
     <tr>
         <td width=20% valign="top">
@@ -211,16 +211,16 @@
     </tr>
 </table>
 
-## 3. 已合作项目的展示
+## 已合作项目的展示
 
 ### Project Dashboard
 
 ## 更多
 
-[内容资讯集合](./src/myPost.md)
+## [内容资讯集合](./src/myPost.md)
 
-## 5. Move语言学习包
+## Move语言学习包
 
-## 6. 合作伙伴的资源
+## 合作伙伴的资源
 
-## 7. 招聘聚合
+## 招聘聚合
