@@ -1,10 +1,14 @@
 <img 
     align="left" 
     style="pointer-events:none;" 
-    src="./images/logofont.png" width=30%
+    src="./images/logofont.png" width=40%
 />
 
- # 社区
+## 这里是Aptos World Community
+
+- Twitter：[@aptosworld](https://twitter.com/aptosworld)
+- Mirror: [0xptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
+- 微信公众号：Aptos World
 
 ### 愿景
 
@@ -19,11 +23,7 @@
     width=20%
 />
 
-- Twitter：[@aptosworld](https://twitter.com/aptosworld)
 
-- Mirror: [0xptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
-
-- 微信公众号：Aptos World
 
 <br/>
 <br/>
