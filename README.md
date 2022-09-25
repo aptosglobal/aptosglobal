@@ -2,9 +2,7 @@
     align="left" 
     style="pointer-events:none;" 
     src="./images/logofont.png" width=28%
-/><font size="10"><b>社区</b></font>
-
-## 社区
+/><font size="25"><b>社区</b></font>
 
 ### 愿景
 
