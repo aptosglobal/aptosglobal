@@ -1,8 +1,10 @@
 <img 
     align="left" 
     style="pointer-events:none;" 
-    src="./images/logofont.png" width=28%
-/><font size="25"><b>社区</b></font>
+    src="./images/logofont.png" width=30%
+/>
+
+ # 社区
 
 ### 愿景
 
