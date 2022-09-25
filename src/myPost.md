@@ -4,7 +4,7 @@
 <tr>
     <td width= 30%>
     <left>
-       <image src="./images/suichange.jpeg">
+       <image src=".././images/suichange.jpeg">
     </left>
     </td>
     <td>
@@ -15,7 +15,7 @@
 <tr>
     <td width= 30%>
     <left>
-       <image src="./images/moveVSrust.jpeg">
+       <image src=".././images/moveVSrust.jpeg">
     </left>
     </td>
     <td>
@@ -31,7 +31,7 @@
 <tr>
     <td width= 30%>
     <left>
-       <image src="./images/aptostestnet.jpeg">
+       <image src=".././images/aptostestnet.jpeg">
     </left>
     </td>
     <td>
@@ -42,7 +42,7 @@
 <tr>
     <td width= 30%>
     <left>
-       <image src="./images/aptosweekrecap.jpeg">
+       <image src=".././images/aptosweekrecap.jpeg">
     </left>
     </td>
     <td>
@@ -64,7 +64,7 @@
 <tr>
 <td width=33% valign="top">
 <div>
-<a href="https://mirror.xyz/0xaptosworld.eth/zkOG5MOPtREuNInYDWNYf2dXhZ5ISwjpg-4nNs_PhwU?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjQwMTg2MTAsImZpbGVHVUlEIjoiNDdrZ0pYcmpwUmgwbjlxViIsImlhdCI6MTY2NDAxODMxMCwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzE4Nzg3NzY4Nn0.J4mSpwCKcUcF3Ysk2VbxHRIVWZFdcCDrRXw5khMlZ2c"><image src="./images/coin98.jpeg"></a>
+<a href="https://mirror.xyz/0xaptosworld.eth/zkOG5MOPtREuNInYDWNYf2dXhZ5ISwjpg-4nNs_PhwU?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjQwMTg2MTAsImZpbGVHVUlEIjoiNDdrZ0pYcmpwUmgwbjlxViIsImlhdCI6MTY2NDAxODMxMCwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzE4Nzg3NzY4Nn0.J4mSpwCKcUcF3Ysk2VbxHRIVWZFdcCDrRXw5khMlZ2c"><image src=".././images/coin98.jpeg"></a>
 </div>
 <div id = "d1" align="left">
 Coin98 集成Aptos ，钱包内卷+1
@@ -72,14 +72,14 @@ Coin98 集成Aptos ，钱包内卷+1
 </td>
 <td width=33% valign="top">
 <div>
-<a href="https://mirror.xyz/0xaptosworld.eth/z-Qr5H13OI_WbwEcPN_LbZQp9B8V8rTCvcQ_vRsbD_I?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjQwMjgzMzgsImZpbGVHVUlEIjoiNDdrZ0pYcmpwUmgwbjlxViIsImlhdCI6MTY2NDAyODAzOCwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzE4ODIxMTkxOX0.RshmqEjInvyI_r30tuik7aFisClwZ8mjleHj4S69SrU"><image src="./images/movevalue.jpeg"></a>
+<a href="https://mirror.xyz/0xaptosworld.eth/z-Qr5H13OI_WbwEcPN_LbZQp9B8V8rTCvcQ_vRsbD_I?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjQwMjgzMzgsImZpbGVHVUlEIjoiNDdrZ0pYcmpwUmgwbjlxViIsImlhdCI6MTY2NDAyODAzOCwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzE4ODIxMTkxOX0.RshmqEjInvyI_r30tuik7aFisClwZ8mjleHj4S69SrU"><image src=".././images/movevalue.jpeg"></a>
 </div>
 <div align="left">
 Econia｜面向下一代用户体验的Aptos DeFi基础设施
 </div>
 </td>
 <td width=33% valign="top">
-<div><a href="https://mirror.xyz/0xaptosworld.eth/oV9_9aXRsm1ZAXt4-N_ne_rjuygbWc8ZDdG5u_vF3SM?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjQwMjgzMzgsImZpbGVHVUlEIjoiNDdrZ0pYcmpwUmgwbjlxViIsImlhdCI6MTY2NDAyODAzOCwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzE4ODIxMTkxOX0.RshmqEjInvyI_r30tuik7aFisClwZ8mjleHj4S69SrU"><image src="./images/Souffl3.jpeg"></a>
+<div><a href="https://mirror.xyz/0xaptosworld.eth/oV9_9aXRsm1ZAXt4-N_ne_rjuygbWc8ZDdG5u_vF3SM?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjQwMjgzMzgsImZpbGVHVUlEIjoiNDdrZ0pYcmpwUmgwbjlxViIsImlhdCI6MTY2NDAyODAzOCwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzE4ODIxMTkxOX0.RshmqEjInvyI_r30tuik7aFisClwZ8mjleHj4S69SrU"><image src=".././images/Souffl3.jpeg"></a>
 </div>
 <div align="left">
 Souffl3 ｜Aptos 链上NFT交易市场的No.1？
@@ -88,6 +88,12 @@ Souffl3 ｜Aptos 链上NFT交易市场的No.1？
 </tr>
 </table>
 
-更多资讯，请移步[0xptosworld.eth](https://mirror.xyz/0xaptosworld.eth), 或者[@aptosworld](https://twitter.com/aptosworld)
+更多资讯，请移步:
+- Twitter：[@aptosworld](https://twitter.com/aptosworld)
+- Mirror: [0xptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
+- 微信公众号：[Aptos World](Wechat.md)
 
-Please read more in [0xptosworld.eth](https://mirror.xyz/0xaptosworld.eth) or [@aptosworld](https://twitter.com/aptosworld)
+Please read more:
+- Twitter：[@aptosworld](https://twitter.com/aptosworld)
+- Mirror: [0xptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
+- Wechat: [Aptos World](Wechat.md)
