@@ -6,13 +6,12 @@
 
 ## 这里是Aptos World Community
 
+### 亚太地区首专注于资讯教育、招聘孵化、开发者社区的Aptos生态服务机构
+
 - Twitter：[@aptosworld](https://twitter.com/aptosworld)
 - Mirror: [0xaptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
 - 微信公众号：[Aptos World](./src/Wechat.md)
 
-### 愿景
-
-### 定位
 
 ## Aptos World 团队介绍
 <table border="3">
