@@ -16,7 +16,7 @@
 
 <table border=0>
     <tr>
-        <td width=30%>
+        <td width=17%>
             开发者社区和DAO
         </td>
         <td>
@@ -30,7 +30,7 @@
         </td>
     </tr>
     <tr>
-        <td width=30%>
+        <td width=17%>
             教育机构
         </td>
         <td>
@@ -44,7 +44,7 @@
         </td>
     </tr>
     <tr>
-        <td width=30%>
+        <td width=17%>
             投研机构
         </td>
         <td>
@@ -55,7 +55,7 @@
         </td>
     </tr>
     <tr>
-        <td width=30%>
+        <td width=17%>
             生态服务机构
         </td>
         <td>
