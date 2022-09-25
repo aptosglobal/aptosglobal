@@ -8,19 +8,11 @@
 
 - Twitter：[@aptosworld](https://twitter.com/aptosworld)
 - Mirror: [0xptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
-- 微信公众号：Aptos World
+- 微信公众号：[Aptos World](./images/Wechat.jpeg)
 
 ### 愿景
 
 ### 定位
-
-### 联系我们
-
-<img 
-    style="pointer-events:none;" 
-    src="./images/Wechat.jpeg"
-    width=20%
-/>
 
 ## 2. Aptos World 团队介绍
 
