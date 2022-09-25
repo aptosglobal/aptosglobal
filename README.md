@@ -14,9 +14,9 @@
 
 ## 合作伙伴的资源
 
-<table>
+<table border=0>
     <tr>
-        <td>
+        <td width=30%>
             开发者社区和DAO
         </td>
         <td>
@@ -33,7 +33,7 @@
 
 <table>
     <tr>
-        <td>
+        <td width=30%>
             教育机构
         </td>
         <td>
@@ -50,7 +50,7 @@
 
 <table>
     <tr>
-        <td>
+        <td width=30%>
             投研机构
         </td>
         <td>
@@ -64,7 +64,7 @@
 
 <table>
     <tr>
-        <td>
+        <td width=30%>
             生态服务机构
         </td>
         <td>
