@@ -89,11 +89,11 @@ Souffl3 ｜Aptos 链上NFT交易市场的No.1？
 </table>
 
 更多资讯，请移步:
-- Twitter：[@aptosworld](https://twitter.com/aptosworld)
+- Twitter(CN) [@AptosWorld1](https://twitter.com/AptosWorld1)(CN)&nbsp;&nbsp;&nbsp;&nbsp;[@AptosWorldHQ](https://twitter.com/AptosWorldHQ)(EN)
 - Mirror: [0xaptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
 - 微信公众号：[Aptos World](Wechat.md)
 
 Please read more:
-- Twitter：[@aptosworld](https://twitter.com/aptosworld)
+- Twitter(CN) [@AptosWorld1](https://twitter.com/AptosWorld1)(CN)&nbsp;&nbsp;&nbsp;&nbsp;[@AptosWorldHQ](https://twitter.com/AptosWorldHQ)(EN)
 - Mirror: [0xaptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
 - Wechat: [Aptos World](Wechat.md)

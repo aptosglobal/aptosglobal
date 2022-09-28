@@ -8,7 +8,7 @@
 
 ### 亚太地区首个专注于资讯教育、招聘孵化、开发者社区的Aptos生态服务机构
 
-- Twitter：[@aptosworld](https://twitter.com/aptosworld)
+- Twitter: [@AptosWorld1](https://twitter.com/AptosWorld1)(CN)&nbsp;&nbsp;&nbsp;&nbsp;[@AptosWorldHQ](https://twitter.com/AptosWorldHQ)(EN)
 - Mirror: [0xaptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
 - 微信公众号：[Aptos World](./src/Wechat.md)
 
