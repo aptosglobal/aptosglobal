@@ -97,3 +97,65 @@ Please read more:
 - Twitter(CN) [@AptosWorld1](https://twitter.com/AptosWorld1)(CN)&nbsp;&nbsp;&nbsp;&nbsp;[@AptosWorldHQ](https://twitter.com/AptosWorldHQ)(EN)
 - Mirror: [0xaptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
 - Wechat: [Aptos World](Wechat.md)
+
+
+## 合作伙伴的资源
+
+<table border=0>
+    <tr>
+        <td width=17%>
+            开发者社区和DAO
+        </td>
+        <td>
+            <image src="./images/Cooperators/DAO/MoveDAO.png">
+        </td>
+        <td>
+            <image src="./images/Cooperators/DAO/MoveFans.png">
+        </td>
+        <td>
+            <image src="./images/Cooperators/DAO/MouseGeek.png">
+        </td>
+    </tr>
+    <tr>
+        <td width=17%>
+            教育机构
+        </td>
+        <td>
+            <image src="./images/Cooperators/edu/aptoseden.png">
+        </td>
+        <td>
+            <image src="./images/Cooperators/edu/blockchainacademy.png">
+        </td>
+        <td>
+            <image src="./images/Cooperators/edu/DC.png">
+        </td>
+    </tr>
+    <tr>
+        <td width=17%>
+            投研机构
+        </td>
+        <td>
+            <image src="./images/Cooperators/investor/aveslair.png">
+        </td>
+        <td>
+            <image src="./images/Cooperators/investor/nothing.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width=17%>
+            生态服务机构
+        </td>
+        <td>
+            <image src="./images/Cooperators/services/e3.jpg">
+        </td>
+        <td>
+            <image src="./images/Cooperators/services/DeJob.jpg">
+        </td>
+        <td>
+            <image src="./images/Cooperators/services/MoveBit.png">
+        </td>
+        <td>
+            <image src="./images/Cooperators/services/aptoshub.png">
+        </td>
+    </tr>
+</table>
