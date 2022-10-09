@@ -4,13 +4,13 @@
     src="./images/logofont.png" width=40%
 />
 
-## 这里是Aptos World Community
+## 这里是Aptos Global Community
 
 ### 亚太地区首个专注于资讯教育、招聘孵化、开发者社区的Aptos生态服务机构
 
-- Twitter: [@AptosWorld1](https://twitter.com/AptosWorld1)(CN)&nbsp;&nbsp;&nbsp;&nbsp;[@AptosWorldHQ](https://twitter.com/AptosWorldHQ)(EN)
+- Twitter: [@AptosglobalCN](https://twitter.com/aptosglobalCN)(CN)&nbsp;&nbsp;&nbsp;&nbsp;[@AptosGlobalHQ](https://twitter.com/aptosglobalHQ)(EN)
 - Mirror: [0xaptosworld.eth](https://mirror.xyz/0xaptosworld.eth)
-- 微信公众号：[Aptos World](./src/Wechat.md)
+- 微信公众号：[Aptos Global](./src/Wechat.md)
 
 ## 资讯合集
 
