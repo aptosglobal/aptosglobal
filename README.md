@@ -24,7 +24,7 @@
     </left>
     </td>
     <td>
-    <left><a href="https://mirror.xyz/0xaptosworld.eth/_KeNIIzDPfMd4nha2JhTMCiJ0FjPcH1GuyZKWArWDYk">Sui联创Adeniyi：未来五年，Move 将如何改变加密行业</a>
+    <left><a href="https://mirror.xyz/0xaptosworld.eth/72FN06itjgUC5IRVVkzRwRsNty7os0PebkN2PJajb8c">盘点｜支持Aptos 的跨链协议</a>
     </left>
     </td>
 </tr>
